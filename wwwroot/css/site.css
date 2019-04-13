@@ -1,0 +1,31 @@
+﻿#Pagination {
+    margin-bottom: 25px;
+    margin-top: 75px;
+    text-align:center;
+}
+#mycard {
+    height: 300px;
+    width:auto;
+    margin-left:25px;
+    margin-top:25px;
+    
+}
+#Expired_btn {
+    width: auto;
+    text-align:left;
+    padding: 8px;
+    font-size:small;
+    margin-right:15px;
+}
+#MyThreebtn {
+    width: inherit;
+    border: hidden;
+    text-align: center;
+    font-size: small;
+    padding-bottom: inherit;
+    padding-top: inherit;
+}
+
+.ui blue basic buttons {
+    text-align: left;
+}
